@@ -15,4 +15,5 @@
 <li>Camera Switching System</li>
 <li>Pre-Rendered Background Support</li>
 <li>Full documentation and tutorials on how to work with the framework</li>
+<li>Game State Controller (Which combines the key systems together).
 </ul>
