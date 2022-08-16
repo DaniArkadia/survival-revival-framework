@@ -1,5 +1,5 @@
 <h1>Survival Revival Framework</h1>
-<p>A set of tools which can be used with Unity to create games reminiscent of survival horror games of yore.</p>
+<p>A set of tools which can be used with Unity to create games reminiscent of the classic survival horror games (especially those found on the PS1)</p>
 <h2>Plans (in no particular order):</h2>
 <ul>
 <li>Obtainable World Items</li>
