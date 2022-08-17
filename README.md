@@ -1,8 +1,8 @@
 <h1>Survival Revival Framework</h1>
 <p>A set of tools which can be used with Unity to create games reminiscent of the classic survival horror games (especially those found on the PS1)</p>
 
-<img src="https://i.ibb.co/4jqbMXs/Screenshot-2022-08-17-211927.png" width="640" height="480"></img>
-<p><img src="https://ibb.co/XzQnpKy" alt="" /><img src="https://i.ibb.co/NTHP3rX/Screenshot-2022-08-17-212850.png" alt="" width="546" height="432" /></p>
+<img src="https://i.ibb.co/4jqbMXs/Screenshot-2022-08-17-211927.png" width="320" height="240"></img>
+<img src="https://ibb.co/XzQnpKy" alt="" /><img src="https://i.ibb.co/NTHP3rX/Screenshot-2022-08-17-212850.png" alt="" width="320" height="240" /></p>
 
 <h2>Plans (in no particular order):</h2>
 <ul>
